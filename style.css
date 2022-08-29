@@ -1,0 +1,44 @@
+.content{
+    position: relative;
+    width: 60%;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 10px;
+
+}
+
+body{
+    background-color: skyblue;
+    border: 5px, blue;
+}
+
+p{
+    text-align: left;
+}
+
+.lists{
+    position: relative;
+    text-align: left;
+}
+
+.header{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Impact", "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+}
+
+a:link{
+    color: rgb(71, 71, 255);
+
+}
+
+a:visited{
+    color: rgb(71, 71, 255)
+}
+a:active{
+    color: darkblue;
+}
+

@@ -31,13 +31,18 @@ p{
 }
 
 a:link{
-    color: rgb(71, 71, 255);
+    color: black;
 
 }
 
 a:visited{
-    color: rgb(71, 71, 255)
+    color: black;
 }
+
+a:hover{
+    color:rgb(71, 71, 255)
+}
+
 a:active{
     color: darkblue;
 }
